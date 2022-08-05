@@ -1,10 +1,2 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+Hola me llamo juan caceffo, empeze la carrera de tecnicatura en programacion informatica 
+en 2021 y en el verano de 2020 habia comenzado a estudiar logica de programacion de forma auto didacta y me encanto... A si que tengo pensado seguir formandome y aprendiendo mas de esta hermosa profesion.
